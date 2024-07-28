@@ -4,7 +4,7 @@
 
 | Contributor | Affiliation                                                                                         | Google Scholar                                                          |
 | ----------- | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| Amir Eaman  | [University of Ottawa](https://www.uottawa.ca/en), [Irdeto Canada Corporation](https://irdeto.com/) | [Profile](https://scholar.google.com/citations?user=4GTciD8AAAAJ&hl=en) |
+| Amir Eaman  | [University of Ottawa](https://www.uottawa.ca/en) | [Profile](https://scholar.google.com/citations?user=4GTciD8AAAAJ&hl=en) |
 | Mark Lee    | [University of California, Los Angeles](https://ucla.edu/)                                          | [Profile](https://www.linkedin.com/in/shinyoung-mark-lee-a502bb1b8/)    |
 | Joann Sum   | [CSUF](https://www.fullerton.edu/)                                              | [Profile](https://www.linkedin.com/in/joann-s-5a585a1ba/)               |
 
