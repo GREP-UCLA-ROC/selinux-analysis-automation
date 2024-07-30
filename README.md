@@ -1,5 +1,11 @@
 # Review of SELinux Policy Analysis Tools
 
+
+## Paper draft
+
+https://docs.google.com/document/d/1YNgahoAx1_5Y1oSeLdPQWBxaEpGiWMo4RWQqTIWmU10/edit?usp=sharing
+
+
 ## Contributors
 
 | Contributor | Affiliation                                                                                         | Google Scholar                                                          |
