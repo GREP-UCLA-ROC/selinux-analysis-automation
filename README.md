@@ -8,6 +8,8 @@
 | Mark Lee    | [University of California, Los Angeles](https://ucla.edu/)                                          | [Profile](https://www.linkedin.com/in/shinyoung-mark-lee-a502bb1b8/)    |
 | Joann Sum   | [CSUF](https://www.fullerton.edu/)                                              | [Profile](https://www.linkedin.com/in/joann-s-5a585a1ba/)               |
 | Krish Jain   | [University of Rochester](https://rochester.edu/)                                              | [Profile](https://www.linkedin.com/in/krishjain02)               |
+| Pranav Kapoor   | [Acadia University](https://www2.acadiau.ca/home.html)                                              | [Profile](https://ca.linkedin.com/in/pranav-kapoor-91b918270)              |
+
 
 ## Area of Study
 
