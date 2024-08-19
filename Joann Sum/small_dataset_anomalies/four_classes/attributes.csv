@@ -1,0 +1,6 @@
+attribute,types
+file_type,"sensitive_file_t,user_home_t,admin_home_t,all_files_t,audit_log_t,shadow_t,mail_spool_t,log_type,httpd_tmp_t,named_zone_t,nfsd_fs_t"
+domain,"user_t,admin_t,httpd_t,named_t,backup_t,audit_t,sshd_t,mail_t,cron_t,logrotate_t,passwd_t,nfsd_t"
+can_network,"httpd_t,named_t,sshd_t"
+security_type,"security_t"
+system_type,"proc_t,etc_t,unlabeled_t"
