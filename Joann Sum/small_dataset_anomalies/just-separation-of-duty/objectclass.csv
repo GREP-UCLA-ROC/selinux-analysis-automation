@@ -1,0 +1,5 @@
+object_class,permissions
+file,"read,write,execute,append,unlink,create"
+dir,"read,write,add_name,remove_name"
+tcp_socket,name_bind
+udp_socket,name_bind

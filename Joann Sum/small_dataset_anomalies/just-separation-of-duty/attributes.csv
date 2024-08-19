@@ -1,0 +1,7 @@
+attribute,types
+file_type,"sensitive_file_t,user_home_t,http_content_t,named_zone_t,all_files_t,audit_log_t,mail_spool_t,password_file_t,cron_log_t,mysql_db_t,user_tmp_t,var_log_t,etc_t"
+domain,"user_t,admin_t,httpd_t,named_t,backup_t,audit_t,mail_t,sshd_t,cron_t,mysql_t,postfix_t,crond_t,syslogd_t"
+can_network,"httpd_t,named_t,sshd_t,postfix_t"
+spool_type,"mail_spool_t,user_cron_spool_t"
+log_type,"audit_log_t,cron_log_t,var_log_t"
+tmp_type,user_tmp_t
