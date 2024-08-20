@@ -1,0 +1,9 @@
+attribute,types
+file_type,"sensitive_file_t,user_home_t,admin_home_t,all_files_t,audit_log_t,shadow_t,mail_spool_t,log_type,httpd_tmp_t,named_zone_t,nfsd_fs_t,var_t,tmp_t,etc_t,bin_t,lib_t,sbin_t,usr_t,dev_t,proc_t,sys_t"
+domain,"user_t,admin_t,httpd_t,named_t,backup_t,audit_t,sshd_t,mail_t,cron_t,logrotate_t,passwd_t,nfsd_t,ftpd_t,mysqld_t,postfix_t,squid_t,dhcpd_t,ntpd_t,snmpd_t,syslogd_t,udev_t,xdm_t,zabbix_agent_t"
+can_network,"httpd_t,named_t,sshd_t,ftpd_t,mysqld_t,postfix_t,squid_t,dhcpd_t,ntpd_t,snmpd_t,zabbix_agent_t"
+security_type,"security_t,selinux_t"
+system_type,"proc_t,etc_t,unlabeled_t,sysfs_t,devpts_t,tmpfs_t,ramfs_t"
+executable_type,"bin_exec_t,sbin_exec_t,httpd_exec_t,named_exec_t,sshd_exec_t,ftpd_exec_t,mysqld_exec_t,postfix_exec_t"
+device_type,"tty_device_t,null_device_t,zero_device_t,random_device_t,urandom_device_t"
+port_type,"http_port_t,ftp_port_t,ssh_port_t,dns_port_t,mysql_port_t,smtp_port_t"
