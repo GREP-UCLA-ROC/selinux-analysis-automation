@@ -5,6 +5,10 @@
 
 https://docs.google.com/document/d/1YNgahoAx1_5Y1oSeLdPQWBxaEpGiWMo4RWQqTIWmU10/edit?usp=sharing
 
+## Pre-print paper draft
+
+https://docs.google.com/document/d/18I_WBMMVbM0GW3xVTLEGNo8ZY_9PBavW_4c_L25LgjU/edit?usp=sharing
+
 ## Contributors
 
 | Contributor | Affiliation                                                                                         | Google Scholar                                                          |
